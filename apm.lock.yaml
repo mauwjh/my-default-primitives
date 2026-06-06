@@ -1,0 +1,12 @@
+lockfile_version: 1
+generated_at: "2026-06-06T06:55:53.666Z"
+apm_version: 1.0.0
+
+dependencies:
+  github/awesome-copilot:
+    repo_url: https://github.com/github/awesome-copilot
+    host: github.com
+    resolved_commit: ""
+    package_type: apm
+    deployed_files: []
+    content_hash: ""
